@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorldCurrencies</string>
+    <string name="title_text">Валюты мира</string>
+    <string name="name_text_hint">Название валюты</string>
+</resources>
