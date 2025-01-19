@@ -3,6 +3,7 @@ package com.example.worldcurrencies
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.example.worldcurrencies.data.Repository
 import com.example.worldcurrencies.models.ModelItem
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject

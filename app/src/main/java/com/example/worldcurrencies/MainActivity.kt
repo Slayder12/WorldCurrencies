@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.worldcurrencies.adapters.CustomAdapter
 import com.example.worldcurrencies.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 

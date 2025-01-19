@@ -1,7 +1,8 @@
-package com.example.worldcurrencies
+package com.example.worldcurrencies.pages
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.worldcurrencies.R
 import com.example.worldcurrencies.databinding.ActivityStartFragmentBinding
 
 class StartFragmentActivity : AppCompatActivity() {

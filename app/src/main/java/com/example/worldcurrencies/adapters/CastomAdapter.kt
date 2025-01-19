@@ -1,4 +1,4 @@
-package com.example.worldcurrencies
+package com.example.worldcurrencies.adapters
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.worldcurrencies.R
 import com.example.worldcurrencies.models.ModelItem
 
 class CustomAdapter(private val items: MutableList<ModelItem>) :

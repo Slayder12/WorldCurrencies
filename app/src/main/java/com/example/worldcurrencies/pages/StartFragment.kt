@@ -1,4 +1,4 @@
-package com.example.worldcurrencies
+package com.example.worldcurrencies.pages
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.example.worldcurrencies.MainActivity
 import com.example.worldcurrencies.databinding.FragmentStartBinding
 
 class StartFragment : Fragment() {
